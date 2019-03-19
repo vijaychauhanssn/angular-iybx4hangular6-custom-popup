@@ -7,7 +7,7 @@ import { routing }        from './app.routing';
 
 import { ModalComponent } from './_directives';
 import { ModalService } from './_services';
-import { HomeComponent } from './home';
+import { HomeComponent } from './home/home';
 import { TestPageComponent } from './test-page';
 
 @NgModule({
