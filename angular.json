@@ -23,8 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "app/_content/app.less",
-              "app/_content/modal.less"
+              "src/app/_content/app.less",
+              "src/app/_content/modal.less"
             ],
             "scripts": []
           },
